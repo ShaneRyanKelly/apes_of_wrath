@@ -1,0 +1,88 @@
+[
+  {
+    "area_00" : {
+      "area" : "area_00",
+      "header" : "<b><h3>Heart of the Jungle</h3></b>",
+      "date_time" : "<h5><i>Third Sun, First Quarter, Seventh Moon</i></h5>",
+      "description": "<p>You are the darkness which lives in the <a class=\"location\">Heart of the Jungle</a>. Here, where light rarely penetrates, you came to consciousness and awareness of the space about you. Here, where the scent of distilled fertility permeates the darkness, is where you were born. Here, where nameless things known and unknown surround you, is where you came to identify your own formless non-being.<br /><br />You are the Shadow that grew in the <a class=\"location\">Heart of the Jungle</a>. Without knowing either peers or family you came to know yourself. Sheltered from the sky by the canopy, among the vines and creepers and fungal masses you came to know the darkness, at times it was the only thing surrounding you. Sheltered, in the silence, you reflected for seeming ages finding nothing in the world beside yourself.<br /><br />Today, something has moved you, is it a calling from within or without? You see a light to the <a class=\"direction\">North</a>. To walk into the light will mean a leaving without return. To walk into the light is to know the light, and once you have known the light never again will you be able to return to the darkness from whence you came. Are you ready to take your first step from the unknown into what is known? To know is to be free.</p>",
+      "look_north": "<br /><h5><b><em>Looking North</em></b></h5><br /><br /><p>Between the leaves among the morass of undergrowth you can see a subtle light, brighter than you've ever known. To head <a class=\"direction\">North</a>, To approach the light is to leave the darkness. To leave the darkness is to walk into the light. To walk into the light is to know. To know is to be free. Are you ready to walk into the light?</p><br />",
+      "look_east": "",
+      "look_south": "",
+      "look_west": "",
+      "travel_north": "area_01",
+      "travel_east": "",
+      "travel_south": "",
+      "travel_west": ""
+    },
+    "area_01" : {
+      "area" : "area_01",
+      "header" : "<b><h3>Jungle Crossroads</h3></b>",
+      "date_time" : "<br /><br /><h5><i>Third Sun, First Quarter, Seventh Moon</i></h5>",
+      "description": "<p>The light grows as you approach it. The idea of a color enters into your mind as the once formless things surrounding you take on shapes and hues beyond anything once imagined. From the blackness grows the deepest green. The green it grows from black soil underneath you and intensifies in the building light. The light imparts the qualities into these things such that they may now be known. Some leaves glisten, others shine, some glow dully beneath a layer of forest dirt. All of these qualities become known to you and are remembered like some long forgotten memory of the way that things once were. Knowing only darkness you cannot truly say when once was, but it is a knowing which rises gently as the hill which brings you through the brush and out from the <a class=\"location\">Heart of the Jungle</a>.<br /><br />As the light which was once ahead rises above your head (what is a head?) You find yourself standing at the <a class=\"location\">Jungle Crossroads</a> a place you have never known. Here two paths intersect in an open clearing. The trees surrounding the crossroads lean away from it, as if bending from the influence of some great power. The trails themselves are of well worn pounded clay. Around the crossroads are innumerable stacks of stones and rudimentary icons. Some of the <a class=\"dictionary\">cairns</a> are low, consisting of a few stones remarkably well balanced. Others are towering masses of hastily piled stone. Still other <a class=\"dictionary\">cairns</a> are somewhere in between the two being arranged haphazardly yet artfully balanced in their own way.<br /><br />The icons and plant life imbibe the area with a breath of life despite the startling lack of calls of the wild which might be expected this deep in the jungle. It is as if the whole crossroads exists apart from the rest of the jungle. The area has a sense at once otherworldly and earthly in a single moment.<br /><br />The roads go on from here into green and brown and darkness and light. The main axis of the crossroads extends to the <a class=\"direction\">North</a> and <a class=\"direction\">South</a>. While the minor axis bisects it leading to the <a class=\"direction\">East</a> and <a class=\"direction\">West</a>.</p>",
+      "look_north": "<br /><h5><b><em>Looking North</em></b></h5><br /><br /><p>A gable of tender white flowers on soft vines surrounds the Northern trailhead after which the trail seems to descend along hard packed black clay into a dark green abyss.<br /><br />Directly before the trailhead, by the northern outskirts of the crossroads, are towering <a class=\"dictionary\">cairns</a> of medium sized stone. Each <a class=\"dictionary\">cairn</a> sits atop a giant flat slab of stone. Perhaps a slight trick of nature gathered these foundational stones towards the <a class=\"direction\">North</a> end of the clearing. Perhaps, more troubling, they were moved there by something possessing the requisite strength to heave a stone of that size.<br /><br />There are exits to the <a class=\"direction\">North</a>, <a class=\"direction\">South</a>, <a class=\"direction\">East</a>, and <a class=\"direction\">West</a></p><br />",
+      "look_east": "<br /><h5><b><em>Looking East</em></b></h5><p>To the <a class=\"direction\">East</a> the trail continues into a shaded section of jungle thick with vines hanging from the canopy above. The trail itself seems to be given over to creepers and lower brush at the edge of your range of vision in the limited light.<br /><br />Surrounding the trailhead amongst the low hanging fruit growing on the vine a number of icons hang from primitive ropes. The icons are alternatively constructed of materials including bone, shell, and husk. Upon inspection you find no significant meaning to the icons nor any order to their placement. Below the hanging icons stones have been quickly piled into conical mounds. The mounds seem to be placed in one-to-one correspondence with the icons hanging above, or vice-versa.<br /><br />There are exits to the <a class=\"direction\">North</a>, <a class=\"direction\">South</a>, <a class=\"direction\">East</a>, and <a class=\"direction\">West</a></p><br />",
+      "look_south": "<br /><h5><b><em>Looking South</em></b></h5><br /><br /><p>To the <a class=\"direction\">South</a> the trail continues into a scramble of large boulders at the feet of which smaller stones of assorted colors roll downhill towards the crossroads clearing. Beyond the scramble of rock at the Southern trailhead you see the trail ascend into still steeper rock climbs.<br /><br />From where you stand the Southern trailhead is remarkable for its seeming lack of any stone effigies or iconography. Instead you notice only a few small stones of eye-catching brightness and lustre scattered haphazardly among the plain stones making up the trail itself. Looking <a class=\"direction\">South</a> a chill comes over you, you sense a million sleeping eyes staring into you among the whispers of a thousand forgotten tongues.<br /><br />There are exits to the <a class=\"direction\">North</a>, <a class=\"direction\">South</a>, <a class=\"direction\">East</a>, and <a class=\"direction\">West</a></p><br />",
+      "look_west": "<br /><h5><b><em>Looking West</em></b></h5><br /><br /><p>By either side of the Western trailhead two towering columns of stacked black stones have been erected. The columns stand several heads taller than any of the other structures about the crossroads. Leading up to the towers a series of tidy <a class=\"dictionary\">cairns</a> have been laid out. The smaller cairns increase in size geometrically, terminating with the two towers marking the true start of the Western Trail.<br /><br />By far the order and precision with which the series of <a class=\"dictionary\">cairns</a> has been constructed indicates a degree of sophistication unknown in any of the other cardinal directions. Upon further inspection the <a class=\"dictionary\">cairns</a> appear to be held together by some sort of yellowish cement or mortar. Furthermore in the gathering jungle surrounding the Western trailhead you see a number of sharpened stakes pointed threateningly inwards towards the heart of the clearing.<br /><br />There are exits to the <a class=\"direction\">North</a>, <a class=\"direction\">South</a>, <a class=\"direction\">East</a>, and <a class=\"direction\">West</a></p><br />",
+      "travel_north": "area_02",
+      "travel_east": "area_03",
+      "travel_south": "area_04",
+      "travel_west": "area_05"
+    },
+    "area_02" : {
+      "area" : "area_02",
+      "header" : "<b><h3>Northern Trail</h3></b>",
+      "date_time" : "<br /><br /><h5><i>Third Sun, First Quarter, Seventh Moon</i></h5>",
+      "description": "<p>The main axis of the crossroads extends to the <a class=\"direction\">North</a> and <a class=\"direction\">South</a>. While the minor axis bisects it leading to the <a class=\"direction\">East</a> and <a class=\"direction\">West</a>.</p>",
+      "look_north": "<br /><h5><b><em>Looking North</em></b></h5><br /><br /><p>There are exits to the <a class=\"direction\">North</a>, <a class=\"direction\">South</a>, <a class=\"direction\">East</a>, and <a class=\"direction\">West</a></p><br />",
+      "look_east": "<br /><h5><b><em>Looking East</em></b></h5><br /><br /><p>There are exits to the <a class=\"direction\">North</a>, <a class=\"direction\">South</a>, <a class=\"direction\">East</a>, and <a class=\"direction\">West</a></p><br />",
+      "look_south": "<br /><h5><b><em>Looking South</em></b></h5><br /><br /><p><br /><br />There are exits to the <a class=\"direction\">North</a>, <a class=\"direction\">South</a>, <a class=\"direction\">East</a>, and <a class=\"direction\">West</a></p><br />",
+      "look_west": "<br /><h5><b><em>Looking West</em></b></h5><br /><br /><p>There are exits to the <a class=\"direction\">North</a>, <a class=\"direction\">South</a>, <a class=\"direction\">East</a>, and <a class=\"direction\">West</a></p><br />",
+      "travel_north": "",
+      "travel_east": "",
+      "travel_south": "area_01",
+      "travel_west": ""
+    },
+    "area_03" : {
+      "area" : "area_03",
+      "header" : "<b><h3>Eastern Trail</h3></b>",
+      "date_time" : "<br /><br /><h5><i>Third Sun, First Quarter, Seventh Moon</i></h5>",
+      "description": "<p>The main axis of the crossroads extends to the <a class=\"direction\">North</a> and <a class=\"direction\">South</a>. While the minor axis bisects it leading to the <a class=\"direction\">East</a> and <a class=\"direction\">West</a>.</p>",
+      "look_north": "<br /><h5><b><em>Looking North</em></b></h5><br /><br /><p>There are exits to the <a class=\"direction\">North</a>, <a class=\"direction\">South</a>, <a class=\"direction\">East</a>, and <a class=\"direction\">West</a></p><br />",
+      "look_east": "<br /><h5><b><em>Looking East</em></b></h5><br /><br /><p>There are exits to the <a class=\"direction\">North</a>, <a class=\"direction\">South</a>, <a class=\"direction\">East</a>, and <a class=\"direction\">West</a></p><br />",
+      "look_south": "<br /><h5><b><em>Looking South</em></b></h5><br /><br /><p><br /><br />There are exits to the <a class=\"direction\">North</a>, <a class=\"direction\">South</a>, <a class=\"direction\">East</a>, and <a class=\"direction\">West</a></p><br />",
+      "look_west": "<br /><h5><b><em>Looking West</em></b></h5><br /><br /><p>There are exits to the <a class=\"direction\">North</a>, <a class=\"direction\">South</a>, <a class=\"direction\">East</a>, and <a class=\"direction\">West</a></p><br />",
+      "travel_north": "",
+      "travel_east": "",
+      "travel_south": "",
+      "travel_west": "area_01"
+    },
+    "area_04" : {
+      "area" : "area_04",
+      "header" : "<b><h3>Southern Trail</h3></b>",
+      "date_time" : "<br /><br /><h5><i>Third Sun, First Quarter, Seventh Moon</i></h5>",
+      "description": "<p>The main axis of the crossroads extends to the <a class=\"direction\">North</a> and <a class=\"direction\">South</a>. While the minor axis bisects it leading to the <a class=\"direction\">East</a> and <a class=\"direction\">West</a>.</p>",
+      "look_north": "<br /><h5><b><em>Looking North</em></b></h5><br /><br /><p>There are exits to the <a class=\"direction\">North</a>, <a class=\"direction\">South</a>, <a class=\"direction\">East</a>, and <a class=\"direction\">West</a></p><br />",
+      "look_east": "<br /><h5><b><em>Looking East</em></b></h5><br /><br /><p>There are exits to the <a class=\"direction\">North</a>, <a class=\"direction\">South</a>, <a class=\"direction\">East</a>, and <a class=\"direction\">West</a></p><br />",
+      "look_south": "<br /><h5><b><em>Looking South</em></b></h5><br /><br /><p><br /><br />There are exits to the <a class=\"direction\">North</a>, <a class=\"direction\">South</a>, <a class=\"direction\">East</a>, and <a class=\"direction\">West</a></p><br />",
+      "look_west": "<br /><h5><b><em>Looking West</em></b></h5><br /><br /><p>There are exits to the <a class=\"direction\">North</a>, <a class=\"direction\">South</a>, <a class=\"direction\">East</a>, and <a class=\"direction\">West</a></p><br />",
+      "travel_north": "area_01",
+      "travel_east": "",
+      "travel_south": "",
+      "travel_west": ""
+    },
+    "area_05" : {
+      "area" : "area_05",
+      "header" : "<b><h3>Western Trail</h3></b>",
+      "date_time" : "<br /><br /><h5><i>Third Sun, First Quarter, Seventh Moon</i></h5>",
+      "description": "<p>The main axis of the crossroads extends to the <a class=\"direction\">North</a> and <a class=\"direction\">South</a>. While the minor axis bisects it leading to the <a class=\"direction\">East</a> and <a class=\"direction\">West</a>.</p>",
+      "look_north": "<br /><h5><b><em>Looking North</em></b></h5><br /><br /><p>There are exits to the <a class=\"direction\">North</a>, <a class=\"direction\">South</a>, <a class=\"direction\">East</a>, and <a class=\"direction\">West</a></p><br />",
+      "look_east": "<br /><h5><b><em>Looking East</em></b></h5><br /><br /><p>There are exits to the <a class=\"direction\">North</a>, <a class=\"direction\">South</a>, <a class=\"direction\">East</a>, and <a class=\"direction\">West</a></p><br />",
+      "look_south": "<br /><h5><b><em>Looking South</em></b></h5><br /><br /><p><br /><br />There are exits to the <a class=\"direction\">North</a>, <a class=\"direction\">South</a>, <a class=\"direction\">East</a>, and <a class=\"direction\">West</a></p><br />",
+      "look_west": "<br /><h5><b><em>Looking West</em></b></h5><br /><br /><p>There are exits to the <a class=\"direction\">North</a>, <a class=\"direction\">South</a>, <a class=\"direction\">East</a>, and <a class=\"direction\">West</a></p><br />",
+      "travel_north": "",
+      "travel_east": "area_01",
+      "travel_south": "",
+      "travel_west": ""
+    }
+  }
+]
